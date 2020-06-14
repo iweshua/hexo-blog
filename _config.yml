@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 余烬
+title: Weshau
 subtitle: '栀晚鸢乱'
 description: 'Study Programs And Record Life'
 keywords:
-author: 余烬
+author: Weshau
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://weshau.com
+url: http://vblog.weshau.com
 root: /
 permalink: posts/:abbrlink.html #:year/:month/:day/:title/
 permalink_defaults:
@@ -153,5 +153,7 @@ theme: matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:weshau/weshau.github.io.git
+  repo: 
+    github: git@github.com:iweshau/iweshau.github.io.git
+    coding: git@e.coding.net:weshau/weshau.coding.me.git
   branch: master
