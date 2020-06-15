@@ -1,6 +1,6 @@
 ---
 title: git
-author: 余烬
+author: Weshau
 categories: front end
 tags: git
 abbrlink: a89f

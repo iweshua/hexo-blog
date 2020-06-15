@@ -1,7 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-author: 余烬
+author: Weshau
+categories:
+tags:
 img:
 top:
 cover:
@@ -10,6 +12,4 @@ password:
 toc:
 mathjax:
 summary:
-categories:
-tags:
 ---
